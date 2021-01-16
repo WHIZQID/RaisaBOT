@@ -150,7 +150,7 @@ let state = {
     }
 }
 
-prefix = '.'
+prefix = '#'
 var timeStart = Date.now() / 1000
 moment.tz.setDefault('Asia/Jakarta').locale('id')
 
